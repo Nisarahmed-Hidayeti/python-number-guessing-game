@@ -17,4 +17,3 @@ while True:
         print(f"You got it in {attempts} attempts!")
         break
     attempts += 1
-    
